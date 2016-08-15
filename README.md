@@ -1,2 +1,3 @@
-# Atividades de topicos
-// Henrique Martins Miranda | 3º A Informática 2016
+# Seminario sobre Splash Screen
+
+// Gabriel de Sousa Barros | Henrique Martins Miranda  | Lucas Kellorran
