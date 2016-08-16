@@ -26,7 +26,7 @@ public class SplashActivity extends Activity implements Runnable{
         new Handler().postDelayed(new Runnable(){
 
             public void run(){
-                Intent i = new Intent(SplashActivity.this, MainActivity);
+                Intent i = new Intent(SplashActivity.this, PrimeiraActivity.class);
                 startActivity(i);
 
                 finish();
